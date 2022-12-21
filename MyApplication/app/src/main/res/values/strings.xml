@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APLICACION CICLO 4 UNAB MINTIC</string>
+    <string name="txt_btn1">Sign in</string>
+    <string name="txt_btn2">Register</string>
+</resources>
